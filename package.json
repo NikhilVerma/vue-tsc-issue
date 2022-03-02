@@ -1,0 +1,21 @@
+{
+  "name": "vue-tsc-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/runtime-dom": "^3.2.31",
+    "typescript": "^4.6.2",
+    "vue": "^2.6.14",
+    "vue-class-component": "^7.2.6",
+    "vue-tsc": "^0.32.1"
+  },
+  "devDependencies": {
+    "tslib": "^2.3.1"
+  }
+}
